@@ -1,0 +1,51 @@
+E7b xi,aware=(-1, 0): Q=0.737 E=0.1048 off=14.1 slope=-0.11
+E7b xi,aware=(0.0, 0): Q=0.171 E=0.0951 off=46.7 slope=0.00
+E7b xi,aware=(0.0, 1): Q=0.169 E=0.0949 off=46.9 slope=0.00
+E7b xi,aware=(0.001, 0): Q=44.660 E=0.1055 off=25.6 slope=5.71
+E7b xi,aware=(0.001, 1): Q=0.256 E=0.1012 off=28.9 slope=0.02
+E7b xi,aware=(0.003, 0): Q=78.783 E=0.1062 off=25.8 slope=10.84
+E7b xi,aware=(0.003, 1): Q=0.456 E=0.1041 off=17.2 slope=-0.00
+E7b xi,aware=(0.01, 0): Q=134.497 E=0.1064 off=26.0 slope=19.24
+E7b xi,aware=(0.01, 1): Q=0.565 E=0.1046 off=11.9 slope=-0.03
+E7b xi,aware=(0.03, 0): Q=196.965 E=0.1070 off=26.7 slope=27.99
+E7b xi,aware=(0.03, 1): Q=0.580 E=0.1047 off=11.8 slope=-0.05
+E7b xi,aware=(0.1, 0): Q=265.284 E=0.1079 off=28.1 slope=39.33
+E7b xi,aware=(0.1, 1): Q=0.578 E=0.1047 off=11.7 slope=-0.03
+('xi', 'rm')=(0.0, 'adaptive'): Q=0.171 E=0.0951 Ees=7.607 off=46.7 wrate=31.11
+('xi', 'rm')=(0.0, 'fixed'): Q=0.170 E=0.0951 Ees=7.611 off=46.6 wrate=31.12
+('xi', 'rm')=(0.01, 'adaptive'): Q=134.497 E=0.1064 Ees=5.375 off=26.0 wrate=26.47
+('xi', 'rm')=(0.01, 'fixed'): Q=404.029 E=0.1087 Ees=1.176 off=27.0 wrate=16.44
+('xi', 'rm')=(0.02, 'adaptive'): Q=174.276 E=0.1065 Ees=4.710 off=27.1 wrate=24.79
+('xi', 'rm')=(0.02, 'fixed'): Q=402.904 E=0.1086 Ees=1.204 off=27.3 wrate=16.49
+('xi', 'rm')=(0.05, 'adaptive'): Q=230.834 E=0.1075 Ees=3.888 off=28.2 wrate=23.05
+('xi', 'rm')=(0.05, 'fixed'): Q=402.345 E=0.1085 Ees=1.209 off=27.2 wrate=16.52
+('xi', 'rm')=(0.1, 'adaptive'): Q=265.284 E=0.1079 Ees=3.286 off=28.1 wrate=21.43
+('xi', 'rm')=(0.1, 'fixed'): Q=403.986 E=0.1086 Ees=1.228 off=27.0 wrate=16.57
+('csi', 'bo')=(0.0, 0.0): Q=0.170 E=0.0951 Ees=7.611 off=46.6 wrate=31.12
+('csi', 'bo')=(0.0, 1.0): Q=0.170 E=0.0951 Ees=7.611 off=46.6 wrate=31.12
+('csi', 'bo')=(0.0, 2.0): Q=0.169 E=0.0949 Ees=7.619 off=47.1 wrate=31.11
+('csi', 'bo')=(0.05, 0.0): Q=210.048 E=0.1064 Ees=4.191 off=29.9 wrate=23.60
+('csi', 'bo')=(0.05, 1.0): Q=12.503 E=0.1044 Ees=7.188 off=36.9 wrate=30.71
+('csi', 'bo')=(0.05, 2.0): Q=0.251 E=0.1002 Ees=7.510 off=41.1 wrate=31.27
+('csi', 'bo')=(0.1, 0.0): Q=218.846 E=0.1068 Ees=4.108 off=29.5 wrate=23.36
+('csi', 'bo')=(0.1, 1.0): Q=21.183 E=0.1046 Ees=7.092 off=36.4 wrate=30.48
+('csi', 'bo')=(0.1, 2.0): Q=0.373 E=0.1026 Ees=7.452 off=37.9 wrate=31.26
+('csi', 'bo')=(0.2, 0.0): Q=230.300 E=0.1063 Ees=3.833 off=29.6 wrate=22.61
+('csi', 'bo')=(0.2, 1.0): Q=42.697 E=0.1049 Ees=6.770 off=35.4 wrate=29.71
+('csi', 'bo')=(0.2, 2.0): Q=5.805 E=0.1044 Ees=7.315 off=36.9 wrate=31.01
+('mix', 'scheme')=(10, 'LyDROO-Greedy'): Q=249.760 E=0.0818 Ees=8.235 off=26.5 wrate=22.25
+('mix', 'scheme')=(10, 'LyDROO-TDMA'): Q=317.223 E=0.0820 Ees=7.018 off=11.7 wrate=19.73
+('mix', 'scheme')=(10, 'PALM'): Q=232.313 E=0.0818 Ees=8.514 off=32.0 wrate=22.87
+('mix', 'scheme')=(10, 'PALM-PS'): Q=223.468 E=0.0820 Ees=8.809 off=42.7 wrate=23.36
+('mix', 'scheme')=(2, 'LyDROO-Greedy'): Q=0.126 E=0.1059 Ees=4.675 off=35.8 wrate=31.11
+('mix', 'scheme')=(2, 'LyDROO-TDMA'): Q=0.127 E=0.1134 Ees=4.313 off=32.6 wrate=31.11
+('mix', 'scheme')=(2, 'PALM'): Q=0.127 E=0.1089 Ees=4.294 off=33.1 wrate=31.11
+('mix', 'scheme')=(2, 'PALM-PS'): Q=0.126 E=0.1112 Ees=4.112 off=30.7 wrate=31.11
+('mix', 'scheme')=(6, 'LyDROO-Greedy'): Q=0.234 E=0.1002 Ees=7.397 off=31.6 wrate=31.12
+('mix', 'scheme')=(6, 'LyDROO-TDMA'): Q=0.737 E=0.1048 Ees=7.119 off=14.1 wrate=31.18
+('mix', 'scheme')=(6, 'PALM'): Q=0.187 E=0.0966 Ees=7.547 off=45.0 wrate=31.12
+('mix', 'scheme')=(6, 'PALM-PS'): Q=0.171 E=0.0951 Ees=7.607 off=46.7 wrate=31.11
+('esg',)=(1.0,): Q=345.705 E=0.1075 Ees=1.825 off=2.9 wrate=18.47
+('esg',)=(2.0,): Q=288.217 E=0.1071 Ees=2.691 off=4.3 wrate=20.56
+('esg',)=(4.0,): Q=173.647 E=0.1064 Ees=4.409 off=7.1 wrate=24.75
+('esg',)=(8.0,): Q=0.201 E=0.0982 Ees=7.459 off=37.3 wrate=31.12

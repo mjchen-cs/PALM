@@ -1,0 +1,11 @@
+numpy>=1.26
+scipy>=1.11
+numba>=0.59
+torch>=2.2
+matplotlib>=3.8
+cvxpy>=1.7
+clarabel>=0.7
+pillow>=10.0
+# optional: PQC benchmarks and quantum hardware
+# liboqs-python>=0.10
+# pyqpanda3>=0.5

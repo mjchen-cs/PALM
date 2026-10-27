@@ -1,0 +1,12 @@
+nohup: ignoring input
+PALM-PS-RT 10 median 6.570 ms  p99 9.707 ms
+PALM-PS-RT 20 median 8.008 ms  p99 11.211 ms
+PALM-PS-RT 30 median 8.336 ms  p99 12.123 ms
+PALM-PS-RT 40 median 8.917 ms  p99 14.763 ms
+PALM-PS-RT 50 median 9.440 ms  p99 12.431 ms
+PALM-RT 10 median 5.206 ms  p99 7.435 ms
+PALM-RT 20 median 5.059 ms  p99 7.899 ms
+PALM-RT 30 median 5.364 ms  p99 8.253 ms
+PALM-RT 40 median 5.726 ms  p99 7.804 ms
+PALM-RT 50 median 6.360 ms  p99 9.266 ms
+saved /home/nvidia/palm_v2/code/hardware/jetson/results/latency_profile_jetson_rt.json

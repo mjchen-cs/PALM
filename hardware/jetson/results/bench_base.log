@@ -1,0 +1,12 @@
+nohup: ignoring input
+LyDiff 10 median 11.424 ms  p99 15.023 ms
+LyDiff 20 median 25.018 ms  p99 33.658 ms
+CEA 10 median 43.128 ms  p99 53.305 ms
+CEA 20 median 78.198 ms  p99 102.759 ms
+LyDDPG-Att 10 median 1.638 ms  p99 2.097 ms
+LyDDPG-Att 20 median 1.709 ms  p99 3.453 ms
+LyDROO-Greedy 10 median 2.315 ms  p99 3.480 ms
+LyDROO-Greedy 20 median 2.593 ms  p99 3.630 ms
+PQC-agnostic 10 median 7.028 ms  p99 16.901 ms
+PQC-agnostic 20 median 18.332 ms  p99 46.178 ms
+saved /home/nvidia/palm_v2/code/hardware/jetson/results/latency_profile_jetson_base.json

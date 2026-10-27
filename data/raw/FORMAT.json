@@ -1,0 +1,78 @@
+{
+ "series": {
+  "Q": "mean data queue per WD (kbit)",
+  "Y": "mean virtual energy queue per WD",
+  "E": "mean WD power (W)",
+  "Ees": "ES power (W)",
+  "wrate": "delivered weighted rate (Mbps)",
+  "off": "offloading ratio",
+  "D": "processed data rate, all WDs (Mbps)",
+  "hs": "handshakes in the frame",
+  "hpro": "proactive handshakes",
+  "dt": "decision time (s, wall clock)"
+ },
+ "per_device": [
+  "perdev_P",
+  "perdev_Jbit",
+  "perdev_off",
+  "perdev_D",
+  "Qfinal"
+ ],
+ "experiments": [
+  [
+   "E1",
+   39,
+   0
+  ],
+  [
+   "E3",
+   132,
+   0
+  ],
+  [
+   "E6",
+   72,
+   0
+  ],
+  [
+   "E12",
+   26,
+   0
+  ],
+  [
+   "E11",
+   56,
+   0
+  ],
+  [
+   "E7",
+   76,
+   0
+  ],
+  [
+   "E7b",
+   26,
+   0
+  ],
+  [
+   "E6b",
+   26,
+   0
+  ],
+  [
+   "E5",
+   54,
+   0
+  ],
+  [
+   "E8",
+   25,
+   0
+  ],
+  [
+   "E13",
+   9,
+   0
+  ]
+ ]
+}

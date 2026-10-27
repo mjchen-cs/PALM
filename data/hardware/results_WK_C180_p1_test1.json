@@ -1,0 +1,30 @@
+{
+ "args": {
+  "backend": "WK_C180",
+  "list": false,
+  "instances": "F:\\\u6295\u7a3f\u8bba\u6587\\2026\\\u672c\u79d1\u751f\\\u59da\u6c38\u6d9b\\TMC\\TMC\\resubmission_2026\\code_new\\code\\hardware\\origin_quantum\\instances.json",
+  "shots": 1000,
+  "layers": 1,
+  "K": 8,
+  "depol": 0.0,
+  "max": 20,
+  "decompose": false,
+  "batch": false,
+  "job": "79E4DCD170D88D6081C2BF3F679081F4"
+ },
+ "summary": {
+  "p_opt": 0.29189282973207425,
+  "best_of_K": 1.0,
+  "random_K": 0.8939062315048838
+ },
+ "rows": [
+  {
+   "p_opt": 0.29189282973207425,
+   "best_of_K": 1.0,
+   "random_K": 0.8939062315048838,
+   "job_id": "79E4DCD170D88D6081C2BF3F679081F4",
+   "wall_s": 1.9634065628051758,
+   "timing": "{'aioTimeStamp': '9:1792983501342;8:1792982924205;7:1792982923921;2:1792983499833;', 'cirExecuteTime': 'null', 'pulseTime': 'null', 'qpuRunTime': '325', 'startTime': '1792982923784', 'totalTime': '577674'}"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+PALM-PS: max stable lambda = 3.0
+PALM-G-PS: max stable lambda = 2.75
+PALM: max stable lambda = 2.75
+PALM-G: max stable lambda = 2.75
+LyDROO-SCA: max stable lambda = 2.75
+LyDROO-Greedy: max stable lambda = 2.75
+LyDROO-TDMA: max stable lambda = 2.5
+KeepAlive: max stable lambda = 2.75
+LyDiff: max stable lambda = 2.75
+CEA: max stable lambda = 2.75
+LyDDPG-Att: max stable lambda = none

@@ -1,0 +1,28 @@
+{'kmin': 0.0, 'part': 'e', 'rekey': 2} PALM-PS: Q=63.4686 slope=8.512 E=0.10627 off=26.06 iotoff=44.97 hs=1.622 hpro=1.222 maxIoT=1.0350 dt=4.08 Ees=6.459
+{'kmin': 0.0, 'part': 'e', 'rekey': 5} PALM-PS: Q=0.3973 slope=-0.037 E=0.10543 off=33.41 iotoff=55.30 hs=1.071 hpro=0.791 maxIoT=0.9752 dt=5.20 Ees=7.404
+{'kmin': 2.0, 'part': 'e', 'rekey': 2} PALM-PS: Q=37.8869 slope=4.861 E=0.10563 off=20.12 iotoff=33.36 hs=0.677 hpro=0.000 maxIoT=1.0067 dt=2.62 Ees=6.635
+{'kmin': 2.0, 'part': 'e', 'rekey': 5} PALM-PS: Q=0.3883 slope=0.009 E=0.10410 off=28.62 iotoff=47.68 hs=0.691 hpro=0.343 maxIoT=0.9816 dt=4.33 Ees=7.323
+{'part': 'a', 'rekey': 1} PALM: Q=127.8213 slope=18.492 E=0.10623 off=14.57 iotoff=24.15 hs=0.730 hpro=0.000 maxIoT=1.0215 dt=1.69 Ees=5.203
+{'part': 'a', 'rekey': 1} PALM-PS: Q=127.8213 slope=18.492 E=0.10623 off=14.57 iotoff=24.15 hs=0.730 hpro=0.000 maxIoT=1.0215 dt=1.91 Ees=5.203
+{'part': 'a', 'rekey': 1} KeepAlive: Q=225.8768 slope=32.982 E=0.12072 off=26.67 iotoff=40.00 hs=4.315 hpro=3.939 maxIoT=1.0280 dt=4.58 Ees=4.072
+{'part': 'a', 'rekey': 10} PALM: Q=0.2532 slope=0.008 E=0.10119 off=36.72 iotoff=60.09 hs=0.464 hpro=0.000 maxIoT=0.9379 dt=3.79 Ees=7.393
+{'part': 'a', 'rekey': 10} PALM-PS: Q=0.1957 slope=0.005 E=0.09866 off=42.29 iotoff=68.55 hs=0.628 hpro=0.361 maxIoT=0.8814 dt=5.24 Ees=7.542
+{'part': 'a', 'rekey': 10} KeepAlive: Q=0.2200 slope=0.012 E=0.10167 off=41.27 iotoff=68.35 hs=0.949 hpro=0.849 maxIoT=0.8867 dt=5.20 Ees=7.479
+{'part': 'a', 'rekey': 2} PALM: Q=37.8869 slope=4.861 E=0.10563 off=20.12 iotoff=33.36 hs=0.677 hpro=0.000 maxIoT=1.0067 dt=2.52 Ees=6.635
+{'part': 'a', 'rekey': 2} PALM-PS: Q=37.8869 slope=4.861 E=0.10563 off=20.12 iotoff=33.36 hs=0.677 hpro=0.000 maxIoT=1.0067 dt=2.76 Ees=6.635
+{'part': 'a', 'rekey': 2} KeepAlive: Q=144.8751 slope=21.132 E=0.11707 off=35.81 iotoff=53.04 hs=3.795 hpro=3.737 maxIoT=1.0155 dt=6.14 Ees=5.334
+{'part': 'a', 'rekey': 20} PALM: Q=0.1866 slope=0.004 E=0.09658 off=44.98 iotoff=72.15 hs=0.359 hpro=0.000 maxIoT=0.8596 dt=3.52 Ees=7.547
+{'part': 'a', 'rekey': 20} PALM-PS: Q=0.1705 slope=0.005 E=0.09509 off=46.75 iotoff=75.65 hs=0.411 hpro=0.208 maxIoT=0.8147 dt=4.57 Ees=7.607
+{'part': 'a', 'rekey': 20} KeepAlive: Q=0.1742 slope=0.004 E=0.09608 off=46.28 iotoff=75.79 hs=0.487 hpro=0.409 maxIoT=0.8104 dt=4.24 Ees=7.557
+{'part': 'a', 'rekey': 200} PALM: Q=0.1531 slope=0.003 E=0.08971 off=51.66 iotoff=83.44 hs=0.070 hpro=0.000 maxIoT=0.7315 dt=3.43 Ees=7.661
+{'part': 'a', 'rekey': 200} PALM-PS: Q=0.1532 slope=0.002 E=0.08925 off=51.85 iotoff=83.69 hs=0.069 hpro=0.017 maxIoT=0.7280 dt=3.71 Ees=7.662
+{'part': 'a', 'rekey': 200} KeepAlive: Q=0.1536 slope=0.004 E=0.08935 off=51.81 iotoff=83.90 hs=0.070 hpro=0.056 maxIoT=0.7175 dt=3.67 Ees=7.643
+{'part': 'a', 'rekey': 5} PALM: Q=0.5137 slope=0.002 E=0.10473 off=26.00 iotoff=43.04 hs=0.532 hpro=0.000 maxIoT=0.9917 dt=2.83 Ees=7.269
+{'part': 'a', 'rekey': 5} PALM-PS: Q=0.3242 slope=0.012 E=0.10365 off=34.49 iotoff=57.20 hs=0.928 hpro=0.653 maxIoT=0.9675 dt=4.85 Ees=7.419
+{'part': 'a', 'rekey': 5} KeepAlive: Q=11.8731 slope=0.969 E=0.11075 off=36.79 iotoff=60.50 hs=1.819 hpro=1.806 maxIoT=1.0005 dt=5.82 Ees=7.262
+{'part': 'a', 'rekey': 50} PALM: Q=0.1624 slope=0.005 E=0.09213 off=49.89 iotoff=79.83 hs=0.184 hpro=0.000 maxIoT=0.7803 dt=3.36 Ees=7.625
+{'part': 'a', 'rekey': 50} PALM-PS: Q=0.1581 slope=0.003 E=0.09161 off=49.66 iotoff=80.79 hs=0.193 hpro=0.105 maxIoT=0.7610 dt=4.02 Ees=7.622
+{'part': 'a', 'rekey': 50} KeepAlive: Q=0.1589 slope=0.003 E=0.09165 off=49.65 iotoff=80.90 hs=0.202 hpro=0.160 maxIoT=0.7547 dt=4.01 Ees=7.614
+{'part': 'd', 'zeta': 0.25} PALM-PS: Q=0.5061 slope=-0.021 E=0.10463 off=26.36 iotoff=43.91 hs=0.550 hpro=0.032 maxIoT=0.9904 dt=5.40 Ees=7.280
+{'part': 'd', 'zeta': 0.5} PALM-PS: Q=0.4107 slope=0.020 E=0.10422 off=30.61 iotoff=51.35 hs=0.740 hpro=0.334 maxIoT=0.9811 dt=5.33 Ees=7.356
+{'part': 'd', 'zeta': 2.0} PALM-PS: Q=0.3244 slope=0.000 E=0.10295 off=35.88 iotoff=59.66 hs=1.030 hpro=0.921 maxIoT=0.9647 dt=5.38 Ees=7.439

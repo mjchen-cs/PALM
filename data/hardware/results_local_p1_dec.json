@@ -1,0 +1,41 @@
+{
+ "args": {
+  "backend": "local",
+  "list": false,
+  "instances": "/home/claude/palm_code/hardware/origin_quantum/instances.json",
+  "shots": 1000,
+  "layers": 1,
+  "K": 8,
+  "depol": 0.0,
+  "max": 4,
+  "decompose": true,
+  "batch": false
+ },
+ "summary": {
+  "p_opt": 0.08525,
+  "best_of_K": 1.0,
+  "random_K": 0.8343993821410711
+ },
+ "rows": [
+  {
+   "p_opt": 0.159,
+   "best_of_K": 1.0,
+   "random_K": 0.8939062315048838
+  },
+  {
+   "p_opt": 0.053,
+   "best_of_K": 1.0,
+   "random_K": 0.8735633171267464
+  },
+  {
+   "p_opt": 0.044,
+   "best_of_K": 1.0,
+   "random_K": 0.574274208783592
+  },
+  {
+   "p_opt": 0.085,
+   "best_of_K": 1.0,
+   "random_K": 0.995853771149062
+  }
+ ]
+}

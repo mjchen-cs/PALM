@@ -1,0 +1,121 @@
+{
+ "args": {
+  "backend": "local",
+  "list": false,
+  "instances": "F:\\\u6295\u7a3f\u8bba\u6587\\2026\\\u672c\u79d1\u751f\\\u59da\u6c38\u6d9b\\TMC\\TMC\\resubmission_2026\\code_new\\code\\hardware\\origin_quantum\\instances.json",
+  "shots": 1000,
+  "layers": 1,
+  "K": 8,
+  "depol": 0.005,
+  "max": 20,
+  "decompose": false,
+  "batch": false
+ },
+ "summary": {
+  "p_opt": 0.06535,
+  "best_of_K": 0.9999753137781819,
+  "random_K": 0.8928262979846135
+ },
+ "rows": [
+  {
+   "p_opt": 0.102,
+   "best_of_K": 1.0,
+   "random_K": 0.8939062315048838
+  },
+  {
+   "p_opt": 0.06,
+   "best_of_K": 1.0,
+   "random_K": 0.8735633171267464
+  },
+  {
+   "p_opt": 0.031,
+   "best_of_K": 0.9995062755636382,
+   "random_K": 0.574274208783592
+  },
+  {
+   "p_opt": 0.046,
+   "best_of_K": 1.0,
+   "random_K": 0.995853771149062
+  },
+  {
+   "p_opt": 0.06,
+   "best_of_K": 1.0,
+   "random_K": 0.893648322152756
+  },
+  {
+   "p_opt": 0.084,
+   "best_of_K": 1.0,
+   "random_K": 0.8943573569624358
+  },
+  {
+   "p_opt": 0.052,
+   "best_of_K": 1.0,
+   "random_K": 0.9981202230691422
+  },
+  {
+   "p_opt": 0.066,
+   "best_of_K": 1.0,
+   "random_K": 0.9821998784374187
+  },
+  {
+   "p_opt": 0.104,
+   "best_of_K": 1.0,
+   "random_K": 0.7958663829555808
+  },
+  {
+   "p_opt": 0.084,
+   "best_of_K": 1.0,
+   "random_K": 0.8757205679739621
+  },
+  {
+   "p_opt": 0.046,
+   "best_of_K": 1.0,
+   "random_K": 0.9487474642703771
+  },
+  {
+   "p_opt": 0.072,
+   "best_of_K": 1.0,
+   "random_K": 0.9192798002154758
+  },
+  {
+   "p_opt": 0.049,
+   "best_of_K": 1.0,
+   "random_K": 0.9960821643264312
+  },
+  {
+   "p_opt": 0.055,
+   "best_of_K": 1.0,
+   "random_K": 0.8688294439424994
+  },
+  {
+   "p_opt": 0.041,
+   "best_of_K": 1.0,
+   "random_K": 0.9950566896767656
+  },
+  {
+   "p_opt": 0.096,
+   "best_of_K": 1.0,
+   "random_K": 1.0
+  },
+  {
+   "p_opt": 0.068,
+   "best_of_K": 1.0,
+   "random_K": 0.9573961519280892
+  },
+  {
+   "p_opt": 0.096,
+   "best_of_K": 1.0,
+   "random_K": 0.6587289982225961
+  },
+  {
+   "p_opt": 0.058,
+   "best_of_K": 1.0,
+   "random_K": 0.7374566542555718
+  },
+  {
+   "p_opt": 0.037,
+   "best_of_K": 1.0,
+   "random_K": 0.9974383327388835
+  }
+ ]
+}

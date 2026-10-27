@@ -1,0 +1,13 @@
+pkt=128: Q=2.464Mb off=37.0% E=0.1054W hs=0.280 iotoff=61.6 Jbit=42.2nJ
+pkt=256: Q=0.222Mb off=41.4% E=0.0999W hs=0.341 iotoff=68.1 Jbit=40.0nJ
+pkt=512: Q=0.183Mb off=44.7% E=0.0968W hs=0.388 iotoff=72.8 Jbit=38.8nJ
+pkt=1500: Q=0.171Mb off=46.7% E=0.0951W hs=0.411 iotoff=75.7 Jbit=38.1nJ
+pst=0.0: Q=0.169Mb off=47.2% E=0.0944W hs=0.419 iotoff=75.8 Jbit=37.8nJ
+pst=0.005: Q=0.171Mb off=46.7% E=0.0959W hs=0.415 iotoff=75.1 Jbit=38.5nJ
+pst=0.01: Q=0.172Mb off=46.0% E=0.0976W hs=0.416 iotoff=73.9 Jbit=39.1nJ
+pst=0.02: Q=0.174Mb off=44.6% E=0.1008W hs=0.406 iotoff=72.5 Jbit=40.3nJ
+pst=0.04: Q=0.192Mb off=38.5% E=0.1050W hs=0.394 iotoff=61.8 Jbit=42.0nJ
+om=0.0: Q=0.168Mb off=46.9% E=0.0951W hs=0.415 iotoff=75.5 Jbit=38.1nJ
+om=0.05: Q=0.170Mb off=47.1% E=0.0948W hs=0.416 iotoff=75.9 Jbit=38.0nJ
+om=0.2: Q=0.171Mb off=46.8% E=0.0949W hs=0.410 iotoff=75.3 Jbit=38.0nJ
+om=1.0: Q=0.172Mb off=45.7% E=0.0944W hs=0.324 iotoff=74.9 Jbit=37.9nJ

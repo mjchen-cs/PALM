@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+results/cache/
+results/*.done
+results/log_*.txt
+*.tmp
+.idea/
+.DS_Store

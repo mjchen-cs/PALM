@@ -1,0 +1,30 @@
+nohup: ignoring input
+PALM-PS 10 median 10.908 ms  p99 19.188 ms
+PALM-PS 20 median 18.788 ms  p99 46.087 ms
+PALM-PS 30 median 18.918 ms  p99 57.220 ms
+PALM-PS 40 median 18.056 ms  p99 46.096 ms
+PALM-PS 50 median 20.545 ms  p99 44.001 ms
+PALM-G-PS 10 median 3.835 ms  p99 5.278 ms
+PALM-G-PS 20 median 4.574 ms  p99 5.966 ms
+PALM-G-PS 30 median 5.060 ms  p99 12.278 ms
+PALM-G-PS 40 median 4.887 ms  p99 11.393 ms
+PALM-G-PS 50 median 5.171 ms  p99 6.701 ms
+PALM 10 median 8.918 ms  p99 17.672 ms
+PALM 20 median 10.883 ms  p99 19.488 ms
+PALM 30 median 14.896 ms  p99 32.335 ms
+PALM 40 median 15.116 ms  p99 26.363 ms
+PALM 50 median 17.305 ms  p99 30.673 ms
+PALM-G 10 median 2.335 ms  p99 3.209 ms
+PALM-G 20 median 2.679 ms  p99 3.859 ms
+PALM-G 30 median 2.847 ms  p99 4.069 ms
+PALM-G 40 median 3.135 ms  p99 4.725 ms
+PALM-G 50 median 3.441 ms  p99 4.664 ms
+LyDROO-SCA 10 median 29.196 ms  p99 95.369 ms
+LyDROO-SCA 20 median 135.166 ms  p99 294.008 ms
+LyDROO-SCA 30 median 274.414 ms  p99 557.624 ms
+LyDROO-TDMA 10 median 6.455 ms  p99 8.211 ms
+LyDROO-TDMA 20 median 10.713 ms  p99 14.884 ms
+LyDROO-TDMA 30 median 13.936 ms  p99 15.968 ms
+LyDROO-TDMA 40 median 17.809 ms  p99 27.090 ms
+LyDROO-TDMA 50 median 20.932 ms  p99 23.760 ms
+saved /home/nvidia/palm_v2/code/hardware/jetson/results/latency_profile_jetson_v2.json
